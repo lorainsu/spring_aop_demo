@@ -1,0 +1,7 @@
+node:
+  id: 1
+  role: master
+
+server:
+  port: 8800
+
